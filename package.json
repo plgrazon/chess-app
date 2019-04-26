@@ -1,5 +1,6 @@
 {
   "name": "chess-app",
+<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,4 +29,23 @@
       "last 1 safari version"
     ]
   }
+=======
+  "version": "1.0.0",
+  "description": "A basic multiplayer chess app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plgrazon/chess-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plgrazon/chess-app/issues"
+  },
+  "homepage": "https://github.com/plgrazon/chess-app#readme"
+>>>>>>> 2119b7cdc393e4d7a6ec3a92daa65fcd8e4ff661
 }
